@@ -20,7 +20,7 @@ compatibility_flags = ["nodejs_compat_v2"]
 #main = './packages/apps/workers-next/dist/index.js'
 
 # Deploy Telegram MarkdownV2 version
- > pnpm run deploy:workersmk2
+> pnpm run deploy:workersmk2
 #main = './packages/apps/workers-mk2/src/index.ts'
 #or
 main = './packages/apps/workers-mk2/dist/index.js'
